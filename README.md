@@ -60,7 +60,11 @@ pip install recommenders
 python -m ipykernel install --user --name <environment_name> --display-name <kernel_name>
 
 # 5. Clone this repo within VSCode or using command line:
+#  for orginal repo:
 git clone https://github.com/recommenders-team/recommenders.git
+#  for our cloned repo:
+git clone https://github.com/Master-s-thesis-PPERA/CF-CBF.git
+
 
 # 6. Within VSCode:
 #   a. Open a notebook, e.g., examples/00_quick_start/sar_movielens.ipynb;  
